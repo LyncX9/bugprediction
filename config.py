@@ -1,0 +1,7 @@
+MODEL_PATH = "best_model.joblib"
+PREPROC_PATH = "preproc.joblib"
+
+BUG_THRESHOLD = 0.6
+HOTSPOT_CC_THRESHOLD = 10
+
+ALLOWED_EXTENSIONS = [".py"]
