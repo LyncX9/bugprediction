@@ -5,3 +5,4 @@ joblib
 numpy<2.0
 scikit-learn==1.4.2
 imbalanced-learn
+python-3.11.9
